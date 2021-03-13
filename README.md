@@ -39,6 +39,6 @@ Die Serie 'stripes' untersucht die Farben eines Eingangsbildes. Es werden in der
 
 Das Programm erstellt eine Liste mit allen Helligkeits-Werten eines Eingabebildes. Von links oben nach rechts unten füllt sich diese Liste ja nach Beschaffenheit des Bildes mit unterschiedlichen Zahlen zwischen 0 (Schwarz) und 1 (Weiß). Danach werden diese Zahlen als Skalierungs-Wert für den Radius in einer kreisenden Bewegung angewandt.
 
-![stripes](mockups/stripes.png)
+![stripes](mockups/rotations.png)
 
 *Hängevorschlag: Gösseck, Rupertisteig, 60x60*
