@@ -28,6 +28,8 @@ Die beiden Aufnahmen von Spiegelungen in den kleinen Teichen des Grazer Eustacch
 
 ![reflections](mockups/stripes.png)
 
+*Hängevorschlag: Das alte Haus, Fliederbush am Fenster, 60x60*
+
 Vertikaler Schnitt durch ein Bild, Farben als liste, Lineare Interpolation, noise Streifen, Abstraktion verlust des Details
 
 ## pixeldata
