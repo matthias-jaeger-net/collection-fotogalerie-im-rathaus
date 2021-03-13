@@ -7,7 +7,7 @@
 
 ## gridscapes
 
-![grid-scapes](mockups/grid-scapes.jpg)
+![grid-scapes](mockups/grid-scapes.png)
 
 ## reflections
 
