@@ -30,7 +30,7 @@ Die beiden Aufnahmen von Spiegelungen in den kleinen Teichen des Grazer Eustacch
 
 *Hängevorschlag: Das alte Haus, Fliederbush am Fenster, 60x60*
 
-Vertikaler Schnitt durch ein Bild, Farben als liste, Lineare Interpolation, noise Streifen, Abstraktion verlust des Details
+Die Serie 'stripes' untersucht die Farben eines Eingangsbildes. Es werden eingangs in der linken und rechten Bildhälfte alle Farben entlang der vertikalen Bildache gemessen. Aus diesem Paar aus zwei Farben pro Bildzeile bildet eine geestreifte Grafik mit einem exakten Verlauf von linker zu rechter Farbe. Die Fotographie verliert durch diesen Prozess jegliches Detail und ist nur mehr vage als sloche auszumachen.
 
 ## pixeldata
 
