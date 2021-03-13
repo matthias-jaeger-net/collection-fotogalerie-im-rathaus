@@ -6,7 +6,7 @@ Die 'Rotation des grapholith' arbeitet mit der Fotographie 'grapholith' von Hein
 
 ![grapholith](mockups/grapholith.png)
 
-*Hängevorschlag, Hochformat, 70x100*
+*Hängevorschlag, 100x70*
 
 
 ## grid-scapes
