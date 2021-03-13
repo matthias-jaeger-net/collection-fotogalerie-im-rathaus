@@ -4,6 +4,7 @@
 
 ![grapholith](mockups/grapholith.png)
 
+> Die 'Rotation des Grapholith' entnimmt Farb-Daten aus einer Fotographie von Heinz Pöschko und erschafft durch eine generative, zufalls-gesteuerte Rotation eine Collage in der eine neue Struktur entsteht, die einem Kreis eingeschrieben ist.
 
 ## gridscapes
 
@@ -13,13 +14,4 @@
 
 ![reflections](mockups/reflections.png)
 
-
-
-### Ideas
-
-- [ ] painterly
-- [ ] Take example from genuary?
-- [ ] Versionize the cDistShape sketch
-- [ ] Use an analogue medium format black and white image for reflections?
-- [ ] Flowfield & colormap
-- [ ] Use a mirror?
+## stripes
