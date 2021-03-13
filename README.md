@@ -12,9 +12,9 @@
 
 > Ausgangspunkt der Serie 'grid-scapes' sind Landschaften im steirischen Bergland. Die weitere Bearbeitung ist als Dunkelkammer zu verstehen in der entwickelt wird. Ein Raster wird über das Bild gelegt. In jeder Zelle misst der Algorithmus die Farbe im Mittelpunkt. Die Werte für Rot, Grün und Blau werden mit einer Linie visualisiert. Länge, Strichstärke und Drehung der Linie abhängig sind von den Farben. Endprodukt ist eine abstrakte Liniengrafik die Visualisierung der Daten und gleichermaßen selbst das Bild ist.
 
-## reflections
+## Small areas of symmetry in Eisteich's reflections
 
-![reflections](mockups/reflections.png)
+![reflections](mockups/reflections-eisteich.png)
 
 
 ## stripes
