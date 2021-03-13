@@ -18,7 +18,7 @@
 
 *PREVIEW*
 
-![grapholtih](grapholith.png)
+![grapholtih](images/grapholith.png)
 
 
 ## stripes
@@ -58,7 +58,7 @@
 
 *PREVIEW*
 
-![grid-scapes](grid-scapes.jpg)
+![grid-scapes](images/grid-scapes.jpg)
 
 ## reflections
 
@@ -79,7 +79,7 @@
 
 *PREVIEW*
 
-![reflections](reflections.png)
+![reflections](images/reflections.png)
 
 
 ## painterly
