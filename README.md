@@ -18,18 +18,18 @@ Ausgangspunkt der seit 2016 laufenden Serie 'grid-scapes' sind Landschaften im s
 *Hängevorschlag: Großofen, Hochreichart, 50x70*
 
 
-## Reflexionen im Eisteich
+## Reflexionen
 
-Die beiden Aufnahmen von Spiegelungen in den kleinen Teichen des Grazer Eustacchio-Parks wurden mit dem Programm 'small-areas-of-symmetry' bearbeitet, das im Zuge meiner Beiträge zum international organisierten Themenmonat #genuary-2021 entstand. Das Programm sucht zufalls-bedingt Teilstücke aus einem gegebenen Referenzbild und manipuliert die Farben eines jeden Teilstücks so, das symmetrisch gespiegelte Muster entstehen. Danach vermischt es diese Bereiche wieder mit dem Origial und es entsteht daraus neues Bild das für mich zwischen der natürlichen und künstlichen Welt zu schweben scheint.
+Die beiden Aufnahmen von Spiegelungen in den kleinen Teichen des Grazer Eustacchio-Parks wurden mit dem Programm 'small-areas-of-symmetry' bearbeitet. Das Programm sucht zufällig Teilstücke aus einem gegebenen Referenzbild und manipuliert die Farben eines jeden Teilstücks so, das symmetrisch gespiegelte Muster entstehen. Danach vermischt es diese Bereiche wieder mit dem Origial und es entsteht ein neues Bild das für mich zwischen natürlicher und künstlicher Welt zu schweben scheint.
 
 ![reflections](mockups/reflections-eisteich.png)
 
-*Hängevorschlag: Kleiner Teich, Moosinsel, 50x70*
+*Hängevorschlag: Kleiner Teich, Moosig, 50x70*
 
 
 ## stripes
 
-Die Serie 'stripes' untersucht die Farben eines Eingangsbildes. Es werden eingangs in der linken und rechten Bildhälfte alle Farben entlang der vertikalen Bildache gemessen. Aus diesem Paar aus zwei Farben pro Bildzeile bildet eine geestreifte Grafik mit einem exakten Verlauf von linker zu rechter Farbe. Die Fotographie verliert durch diesen Prozess jegliches Detail und ist nur mehr vage als sloche auszumachen.
+Die Serie 'stripes' untersucht die Farben eines Eingangsbildes. Es werden in der linken und rechten Bildhälfte alle Farben entlang der vertikalen Bildache gemessen. Aus diesem Paar aus zwei Farben pro Bildzeile bildet sich eine Grafik mit einem exakt interpoliertem Verlauf von linker zu rechter Farbe entlang der horizontalen Bildachse. Die Fotographie verliert durch diesen Prozess jegliches Detail und löst sich in eine Kompositon aus Streifen auf. Die generelle Farbwirkung der Fotos bleibt aber trotz der starken Abstraktion auf seltsame Weise erhalten.
 
 ![stripes](mockups/stripes.png)
 
