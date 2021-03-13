@@ -19,7 +19,7 @@
 
 ## stripes
 
-![reflections](mockups/reflections.png)
+![reflections](mockups/stripes.png)
 
 
 ## pixeldata
