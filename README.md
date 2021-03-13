@@ -4,7 +4,7 @@
 
 Die 'Rotation des grapholith' arbeitet mit der Fotographie 'grapholith' von Heinz Pöschko. Das Eingangsbild zeigt einen dunklen Stein mit einer interessanten Struktur. Das Programm erschafft durch eine pseudo-zufalls-gesteuerte Bewegung entlang eines Kreises eine neue Struktur aus individuell gedrehten und rotierten Kopien des Eingangsbilds.
 
-![grapholith](mockups/grapholith.png)
+![grapholith](mockups/grapholith-quer.png)
 
 *Hängevorschlag, 100x70*
 
