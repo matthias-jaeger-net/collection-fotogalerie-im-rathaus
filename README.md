@@ -18,3 +18,10 @@
 
 
 ## stripes
+
+![reflections](mockups/reflections.png)
+
+
+## pixeldata
+
+![reflections](mockups/pixeldata.png)
