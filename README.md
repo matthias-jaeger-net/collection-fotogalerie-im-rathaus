@@ -6,7 +6,7 @@
 
 > Die 'Rotation des Grapholith' entnimmt Farben aus der Fotographie 'grapholith' von Heinz Pöschko. Sie erschafft durch eine pseudo-zufalls-gesteuerte Bewegung entlang eines Kreises in der Blatt-Mitte eine neue Struktur aus individuell gedrehten und rotierten Kopien des Eingangsbilds.
 
-## gridscapes
+## grid-scapes
 
 ![grid-scapes](mockups/grid-scapes.png)
 
