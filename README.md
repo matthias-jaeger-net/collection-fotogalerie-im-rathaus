@@ -7,7 +7,7 @@ Matthias Jäger (* 1979, AT) lebt und arbeitet in Graz. Er schafft ästhetische 
 
 ## grapholith-rotation
 
-Das Eingangsbild 'grapholith', von Heinz Pöschko, zeigt einen dunklen Stein mit einer interessanten Struktur. Das Programm erschafft durch eine pseudo-zufalls-gesteuerte Bewegung entlang eines Kreises eine neue Struktur aus individuell gedrehten und rotierten Kopien des Eingangsbilds.
+Das Eingangsbild 'grapholith', von Heinz Pöschko, zeigt einen dunklen Stein mit einer interessanten Struktur. Das Programm erschafft durch eine pseudo-zufalls-gesteuerte Bewegung entlang eines Kreises eine neue Struktur aus individuell gedrehten Kopien des Eingangsbilds.
 
 ![grapholith](mockups/grapholith-quer.png)
 
