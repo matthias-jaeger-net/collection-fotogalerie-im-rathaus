@@ -1,8 +1,13 @@
 # sammlung-fotogalerie-im-rathaus
 
-## Die Rotation des grapholith
+# Matthias Jäger
 
-Die 'Rotation des grapholith' arbeitet mit der Fotographie 'grapholith' von Heinz Pöschko. Das Eingangsbild zeigt einen dunklen Stein mit einer interessanten Struktur. Das Programm erschafft durch eine pseudo-zufalls-gesteuerte Bewegung entlang eines Kreises eine neue Struktur aus individuell gedrehten und rotierten Kopien des Eingangsbilds.
+Matthias Jäger (* 1979, AT) lebt und arbeitet in Graz. Er schafft ästhetische Kompositionen aus einfachen Regeln, die er im Vorfeld definiert und dann zur Anwendung bringt. Er spricht davon ein Werk zu entwickeln, denn er arbeitet diese Regeln in geschrieben Code um. Mit Algorithmen bearbeitet er beispielsweise Daten einer Fotographie und konstruiert daraus neue Serien von Bildern. Die Inspiration für seine Arbeit findet gleichermaßen im Bewegen durch Natur und Landschaft und seiner Faszination für die hoch-technische Umwelt in der wir leben.
+
+
+## Rotation des grapholith
+
+Das Eingangsbild 'grapholith', von Heinz Pöschko, zeigt einen dunklen Stein mit einer interessanten Struktur. Das Programm erschafft durch eine pseudo-zufalls-gesteuerte Bewegung entlang eines Kreises eine neue Struktur aus individuell gedrehten und rotierten Kopien des Eingangsbilds.
 
 ![grapholith](mockups/grapholith-quer.png)
 
@@ -11,7 +16,7 @@ Die 'Rotation des grapholith' arbeitet mit der Fotographie 'grapholith' von Hein
 
 ## grid-scapes
 
-Ausgangspunkt der seit 2016 laufenden Serie 'grid-scapes' sind Landschaften im steirischen Bergland. Die weitere Bearbeitung ist als Dunkelkammer zu verstehen in der entwickelt wird. Ein Raster wird über das Bild gelegt. In jeder Zelle misst der Algorithmus die Farbe im Mittelpunkt. Die Werte für Rot, Grün und Blau werden mit einer Linie visualisiert. Länge, Strichstärke und Drehung der Linie abhängig sind von den Farben. Endprodukt ist eine abstrakte Liniengrafik die Visualisierung der Daten und gleichermaßen selbst das Bild ist.
+Ausgangspunkt der Serie 'grid-scapes' sind Landschaften im steirischen Bergland. Die weitere Bearbeitung ist als Dunkelkammer zu verstehen in der entwickelt wird. Ein Raster wird über das Bild gelegt und in jeder Zelle misst der Algorithmus die Farbe im Mittelpunkt. Die Werte für Rot, Grün und Blau werden mit einer Linie visualisiert. Länge, Strichstärke und Drehung der Linie abhängig sind von den Farben. Endprodukt ist eine abstrakte Liniengrafik die Visualisierung der Daten und gleichermaßen selbst das Bild ist.
 
 ![grid-scapes](mockups/grid-scapes.png)
 
@@ -27,7 +32,7 @@ Die beiden Aufnahmen von Spiegelungen in den kleinen Teichen des Grazer Eustacch
 *Hängevorschlag: Kleiner Teich, Moosig, 50x70*
 
 
-## stripes
+## Stripes
 
 Die Serie 'stripes' untersucht die Farben eines Eingangsbildes. Es werden in der linken und rechten Bildhälfte alle Farben entlang der vertikalen Bildache gemessen. Aus diesem Paar aus zwei Farben pro Bildzeile bildet sich eine Grafik mit einem exakt interpoliertem Verlauf von linker zu rechter Farbe entlang der horizontalen Bildachse. Die Fotographie verliert durch diesen Prozess jegliches Detail und löst sich in eine Kompositon aus Streifen auf. Die generelle Farbwirkung der Fotos bleibt aber trotz der starken Abstraktion auf seltsame Weise erhalten.
 
@@ -35,7 +40,7 @@ Die Serie 'stripes' untersucht die Farben eines Eingangsbildes. Es werden in der
 
 *Hängevorschlag: Das alte Haus, Fliederbush am Fenster, 60x60*
 
-## Rotationen der Helligikeitswerte
+## Rotations
 
 Das Programm erstellt eine Liste mit allen Helligkeits-Werten eines Eingabebildes. Von links oben nach rechts unten füllt sich diese Liste ja nach Beschaffenheit des Bildes mit unterschiedlichen Zahlen zwischen 0 (Schwarz) und 1 (Weiß). Danach werden diese Zahlen als Skalierungs-Wert für den Radius in einer kreisenden Bewegung angewandt.
 

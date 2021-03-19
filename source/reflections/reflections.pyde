@@ -24,7 +24,7 @@ def setup():
     
     # IMG_20210312_100822.jpg
     # IMG_20210312_100700.jpg
-    foto = loadImage("data/IMG_20210312_100822.jpg")    
+    foto = loadImage("IMG_20210312_100822.jpg")    
     
     # 1x: 2736, 3648 || 2x: 5472, 7296     
     canvas = createGraphics(5472, 7296)
@@ -45,6 +45,10 @@ def setup():
         canvas.image(reflection, x, y)
 
     canvas.endDraw()
-    canvas.save("out/{hash}.{extension}".format(hash=str(random(1)), extension="png"))    
+    
+    hash = str(random(1))
+    extension = "jpg"
+    out = "out/{h}.{e}".format(h=hash, e=extension)
+    canvas.save(out)    
     exit()
         
