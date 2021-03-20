@@ -34,8 +34,9 @@ def setup():
     padding = 100
     minimum = 800
     maximum = 1200
+    layers = 60
     
-    for layer in range(0, 80): 
+    for layer in range(0, layers): 
         x = int(random(padding, canvas.width - padding))
         y = int(random(padding, canvas.width - padding))
         w = int(random(minimum, maximum))
